@@ -1,0 +1,11 @@
+pdf2image - captures pictures of pdf pages
+pytersseract (OCR) - OCR the pictures and append them into a single document
+nltk - perform functions on the text
+
+
+
+unsearchable pdf input
+converts to searchable (PDF2I)(OCR)
+perform functions on text (NTLK)
+user search pdf for something
+delete excess pics
